@@ -21,14 +21,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "快速/pf.md",
+                "file": "快速/離散數學.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d602b4d66f353cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速/pf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速/pf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "快速/pf.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,24 +161,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60b21c8e4d7111b4",
+  "active": "0d602b4d66f353cf",
   "lastOpenFiles": [
-    "快速/pf.md",
-    "快速/未命名 2.md",
-    "快速/未命名 4.md",
-    "快速/未命名 5.md",
-    "快速/未命名 9.md",
-    "快速/未命名 1.md",
-    "快速/未命名 10.md",
-    "快速/證明函數可逆若且微若函數bijective.md",
-    "快速/未命名 3.md",
-    "快速/未命名 6.md",
-    "快速/未命名 12.md",
-    "快速/未命名 8.md",
-    "快速/42.md",
-    "快速/未命名.md",
+    "快速/Q3.md",
+    "快速/Q11.md",
+    "快速/Q2.md",
+    "快速/Q7.md",
+    "快速/Q1.md",
+    "快速/Q9.md",
+    "快速/Q6.md",
+    "快速/Q8.md",
+    "快速/Q10.md",
+    "快速/Q12.md",
+    "快速/Q5.md",
+    "快速/Q4.md",
+    "快速/作業系統.md",
+    "快速/死結.md",
+    "快速/bijective.md",
     "快速/函數.md",
     "快速/離散數學.md",
+    "快速/pf.md",
+    "快速/證明函數可逆若且微若函數bijective.md",
     "快速/附件/Pasted image 20240725124324.jpg",
     "快速/附件/Pasted image 20240725131718.jpg",
     "README.md",
