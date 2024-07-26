@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a686b0a2608aef1a",
+        "id": "2d936c4086066128",
         "type": "tabs",
         "children": [
           {
-            "id": "7b4b03e0475b080c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "60b21c8e4d7111b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速/離散數學.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d602b4d66f353cf",
+            "id": "9cdd197af9462e3f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "009a235da7d5d517",
@@ -161,13 +141,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d602b4d66f353cf",
+  "active": "fbe0ef753a084151",
   "lastOpenFiles": [
     "快速/Q3.md",
-    "快速/Q11.md",
-    "快速/Q2.md",
-    "快速/Q7.md",
     "快速/Q1.md",
+    "快速/Q2.md",
+    "快速/蔡加尼克效應.md",
+    "快速/離散數學.md",
+    "快速/2024-07-26.md",
+    "快速/Q11.md",
+    "快速/Q7.md",
     "快速/Q9.md",
     "快速/Q6.md",
     "快速/Q8.md",
@@ -179,7 +162,6 @@
     "快速/死結.md",
     "快速/bijective.md",
     "快速/函數.md",
-    "快速/離散數學.md",
     "快速/pf.md",
     "快速/證明函數可逆若且微若函數bijective.md",
     "快速/附件/Pasted image 20240725124324.jpg",
