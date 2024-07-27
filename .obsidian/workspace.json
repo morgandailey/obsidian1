@@ -8,47 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cdd197af9462e3f",
+            "id": "549fb05b51be92b7",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "aebe07576f8d0960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速/卡片盒筆記(10.1,10.2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "537828e93a7320a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "快速/版本控制.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "549fb05b51be92b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速/版本控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速/版本控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "快速/版本控制.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,11 +141,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "537828e93a7320a4",
+  "active": "549fb05b51be92b7",
   "lastOpenFiles": [
-    "快速/Git.md",
-    "快速/版本控制.md",
+    "快速/pf_LA.md",
+    "快速/作業系統.md",
+    "快速/集中式版本控制.md",
     "快速/卡片盒筆記(10.1,10.2).md",
+    "快速/分散式版本控制.md",
+    "快速/版本控制.md",
+    "快速/Git.md",
     "快速/Q3.md",
     "快速/Q1.md",
     "快速/Q2.md",
@@ -198,15 +165,12 @@
     "快速/Q12.md",
     "快速/Q5.md",
     "快速/Q4.md",
-    "快速/作業系統.md",
     "快速/死結.md",
     "快速/bijective.md",
     "快速/函數.md",
     "快速/pf.md",
-    "快速/證明函數可逆若且微若函數bijective.md",
     "快速/附件/Pasted image 20240725124324.jpg",
     "快速/附件/Pasted image 20240725131718.jpg",
-    "README.md",
     "快速/附件/Pasted image 20240725125820.jpg",
     "快速/附件/Pasted image 20240725125814.jpg",
     "快速/附件/Pasted image 20240725125804.jpg",
@@ -216,7 +180,6 @@
     "快速/附件/Pasted image 20240725125636.jpg",
     "快速/附件/Pasted image 20240725125634.jpg",
     "永久",
-    "未命名.md",
     "快速/附件",
     "雜",
     "快速"
